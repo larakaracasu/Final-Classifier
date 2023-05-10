@@ -1,5 +1,6 @@
 # News Article Classifier
 
+## Collaborators
 This project is a collaborative effort by the 2021 Hindsight Technology Solutions data science and machine learning interns:
 
 - Annita Chang
